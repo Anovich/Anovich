@@ -1,0 +1,3 @@
+- 👋 Hi, I’m  Maerton Anovich
+- 👀 No momento estou aprendendo python
+- Vou deixar minhas soluçoes de código dos exer  resolvidos do Curso em Video (python)
